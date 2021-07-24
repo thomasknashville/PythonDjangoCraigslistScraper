@@ -1,0 +1,15 @@
+asgiref @ file:///Users/kat/Library/Caches/pypoetry/artifacts/c3/92/1c/3d42ce7ad1e9e2aa1621c3fa8ebc5e21bd880a768bd691fb4f0356baa8/asgiref-3.4.1-py3-none-any.whl
+autopep8 @ file:///Users/kat/Library/Caches/pypoetry/artifacts/e4/c1/b4/e7994623232466e5f82f5cd403a2225af230a4459902400517588ed5da/autopep8-1.5.7-py2.py3-none-any.whl
+beautifulsoup4==4.9.3
+certifi @ file:///Users/kat/Library/Caches/pypoetry/artifacts/cd/2c/dc/e5bfda594e18f3f1e9af9f11e13581014d821425f325f3220b3ed2c337/certifi-2021.5.30-py2.py3-none-any.whl
+charset-normalizer @ file:///Users/kat/Library/Caches/pypoetry/artifacts/a4/02/c0/e684a2a175a398e14c7658469dd69738d63608fdac4703510e4f7c8dbf/charset_normalizer-2.0.3-py3-none-any.whl
+Django @ file:///Users/kat/Library/Caches/pypoetry/artifacts/59/a3/b8/5f282eb5455b5a97e09f6e264496a2603ded700624b845e2aba6a9f75b/Django-3.2.5-py3-none-any.whl
+idna @ file:///Users/kat/Library/Caches/pypoetry/artifacts/ff/0d/80/b45ae1ddba13a20e406682fd42ce6c201d9bedc5f592bee00cf799a1fb/idna-3.2-py3-none-any.whl
+pycodestyle @ file:///Users/kat/Library/Caches/pypoetry/artifacts/4c/30/97/026c283ef67eb248e5b7e6fad1f8ffb99dae50c11fd93eb939fd7c1f46/pycodestyle-2.7.0-py2.py3-none-any.whl
+python-dateutil @ file:///Users/kat/Library/Caches/pypoetry/artifacts/e5/85/5c/396928a10c398ec0458c2c20bb781931f74c86712c4abcea84eac996b1/python-dateutil-1.5.tar.gz
+pytz @ file:///Users/kat/Library/Caches/pypoetry/artifacts/b0/a7/8d/54de3ab4d1ff29abbbca1e9ccbaefdc2a1b290138311b84f73bee16de1/pytz-2021.1-py2.py3-none-any.whl
+requests @ file:///Users/kat/Library/Caches/pypoetry/artifacts/13/00/3d/5574756561eed6b522f5b13d5a2c05c2920860b05b1e687c3792495ba0/requests-2.26.0-py2.py3-none-any.whl
+soupsieve==2.2.1
+sqlparse @ file:///Users/kat/Library/Caches/pypoetry/artifacts/bc/af/02/8aa71b17fd39b26b858293918c5c6412f83768a0bfd0a4626f660aa5f8/sqlparse-0.4.1-py3-none-any.whl
+toml @ file:///Users/kat/Library/Caches/pypoetry/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
+urllib3 @ file:///Users/kat/Library/Caches/pypoetry/artifacts/84/ae/1e/899a124988c3b1274d9ceaf303b9261a955a4f383e23b05b83381b7faa/urllib3-1.26.6-py2.py3-none-any.whl
